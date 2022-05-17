@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+.vscode/
+.cache
+.eslintcache
+
+.env.local*
+*.key
